@@ -1,0 +1,14 @@
+{
+  "name": "e2e-cypress",
+  "version": "1.0.0",
+  "description": "test upload file with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "node_modules/.bin/cypress open"
+  },
+  "author": "Andres Kaiser",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.0.2"
+  }
+}
